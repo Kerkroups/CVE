@@ -1,5 +1,5 @@
-## Vulnerabilities that submitted by ME on VulnDB:
-
 - https://vuldb.com/?id.247909  
 - https://vuldb.com/?id.247911  
-- https://vuldb.com/?id.247910  
+- https://vuldb.com/?id.247910
+- https://vuldb.com/?id.248743
+- https://vuldb.com/?id.248744  
